@@ -1,5 +1,6 @@
 (function () {
 
+    console.log('main lab start');
     const name = 'Mitch Cuckovich';
     const age = 25;
     const birthday = 'January 24';
@@ -34,5 +35,7 @@
             break;
         }
     }
+
+    console.log('main lab end');
 
 })();
